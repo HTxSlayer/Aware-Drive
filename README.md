@@ -1,4 +1,4 @@
-
+AWARE DRIVE
 
 AwareDrive: Camera-Based Driver Drowsiness Detection System
 AwareDrive is a smart application designed to improve road safety by detecting driver drowsiness using camera technology. This project leverages real-time video feed analysis to monitor the driver's facial expressions, eye movements, and head position, identifying signs of fatigue or inattention. When drowsiness is detected, the system triggers visual and auditory alerts to prompt the driver to take corrective action, helping to prevent accidents caused by fatigue.
