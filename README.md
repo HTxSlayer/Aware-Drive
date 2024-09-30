@@ -19,3 +19,6 @@ Python for algorithm development and processing.
 OpenCV for image processing.
 Streamlit for creating a user-friendly application interface.
 This project aims to provide a scalable and adaptable solution that can be integrated into various vehicle systems, enhancing road safety by proactively addressing drowsy driving.
+
+![Screenshot 2024-04-25 214551](https://github.com/user-attachments/assets/a3422724-f703-47c7-ada1-c05d36d9ad3f)
+
